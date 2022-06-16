@@ -6,7 +6,7 @@ According to three different classification models, cross-validation accuracy sc
 Parameter optimization of the best model has been made.
 
 
-Code is in face recognition.ipynb file, or nbviewerlink is below:
+Code is in face recognition.ipynb file, or nbviewer link is below:
 
-https://nbviewer.org/github/Ubaydullo99/face-recognition-final-project/blob/main/face%20recognition.ipynb
+https://nbviewer.org/github/Ubaydullo99/face-recognition-project/blob/main/face%20recognition.ipynb
 
